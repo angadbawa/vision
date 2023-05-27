@@ -1,2 +1,2 @@
-# Computer vision Projects
-This repo containcs my cv projects
+# Computer Vision Projects
+This repo containcs my CV projects
